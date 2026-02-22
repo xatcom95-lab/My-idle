@@ -7,7 +7,7 @@ ITEM_THRESHOLDS = {
     "Carp": 200,
     "Raw Carp": 39
 }
-DISCORD_WEBHOOK = "YOUR_DISCORD_WEBHOOK_URL"
+DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1474898358928801854/UQIpsQx4qiJCvZMDqjDnam9sZVEEgzGs5EjzaE_dw4zv7qEqIl6cX66x-ZbTByCBTkLm"
 # Official Idle Clans public API base
 API_BASE = "https://query.idleclans.com/api"
 # ===================
